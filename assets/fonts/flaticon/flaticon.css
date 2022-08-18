@@ -1,131 +1,161 @@
+@charset "UTF-8";
 @font-face {
-    font-family: "flaticon";
-    src: url("./flaticon.ttf?138e4f5a5b6a9766adee1421a1ed3218") format("truetype"),
-url("./flaticon.woff?138e4f5a5b6a9766adee1421a1ed3218") format("woff"),
-url("./flaticon.woff2?138e4f5a5b6a9766adee1421a1ed3218") format("woff2"),
-url("./flaticon.eot?138e4f5a5b6a9766adee1421a1ed3218#iefix") format("embedded-opentype"),
-url("./flaticon.svg?138e4f5a5b6a9766adee1421a1ed3218#flaticon") format("svg");
+  font-family: "flaticon";
+  src: url("./flaticon.ttf?138e4f5a5b6a9766adee1421a1ed3218") format("truetype"), url("./flaticon.woff?138e4f5a5b6a9766adee1421a1ed3218") format("woff"), url("./flaticon.woff2?138e4f5a5b6a9766adee1421a1ed3218") format("woff2"), url("./flaticon.eot?138e4f5a5b6a9766adee1421a1ed3218#iefix") format("embedded-opentype"), url("./flaticon.svg?138e4f5a5b6a9766adee1421a1ed3218#flaticon") format("svg");
 }
 
-i[class^="flaticon-"]:before, 
-i[class*=" flaticon-"]:before,
-span[class^="flaticon-"]:before, 
-span[class*=" flaticon-"]:before {
-    font-family: flaticon !important;
-    font-style: normal;
-    font-weight: normal !important;
-    font-variant: normal;
-    text-transform: none;
-    line-height: 1;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+  font-family: flaticon !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .flaticon-diamond:before {
-    content: "\f101";
+  content: "";
 }
+
 .flaticon-speed:before {
-    content: "\f102";
+  content: "";
 }
+
 .flaticon-trophy:before {
-    content: "\f103";
+  content: "";
 }
+
 .flaticon-target:before {
-    content: "\f104";
+  content: "";
 }
+
 .flaticon-telephone:before {
-    content: "\f105";
+  content: "";
 }
+
 .flaticon-message:before {
-    content: "\f106";
+  content: "";
 }
+
 .flaticon-security:before {
-    content: "\f107";
+  content: "";
 }
+
 .flaticon-headphones:before {
-    content: "\f108";
+  content: "";
 }
+
 .flaticon-search:before {
-    content: "\f109";
+  content: "";
 }
+
 .flaticon-award:before {
-    content: "\f10a";
+  content: "";
 }
+
 .flaticon-appointment:before {
-    content: "\f10b";
+  content: "";
 }
+
 .flaticon-pay:before {
-    content: "\f10c";
+  content: "";
 }
+
 .flaticon-select:before {
-    content: "\f10d";
+  content: "";
 }
+
 .flaticon-shopping-bag:before {
-    content: "\f10e";
+  content: "";
 }
+
 .flaticon-mail:before {
-    content: "\f10f";
+  content: "";
 }
+
 .flaticon-email:before {
-    content: "\f110";
+  content: "";
 }
+
 .flaticon-right-quote:before {
-    content: "\f111";
+  content: "";
 }
+
 .flaticon-telephone-1:before {
-    content: "\f112";
+  content: "";
 }
+
 .flaticon-search-1:before {
-    content: "\f113";
+  content: "";
 }
+
 .flaticon-rating:before {
-    content: "\f114";
+  content: "";
 }
+
 .flaticon-guarantee:before {
-    content: "\f115";
+  content: "";
 }
+
 .flaticon-award-1:before {
-    content: "\f116";
+  content: "";
 }
+
 .flaticon-best-price:before {
-    content: "\f117";
+  content: "";
 }
+
 .flaticon-24-hours:before {
-    content: "\f118";
+  content: "";
 }
+
 .flaticon-team:before {
-    content: "\f119";
+  content: "";
 }
+
 .flaticon-buy-button:before {
-    content: "\f11a";
+  content: "";
 }
+
 .flaticon-smartphone:before {
-    content: "\f11b";
+  content: "";
 }
+
 .flaticon-best:before {
-    content: "\f11c";
+  content: "";
 }
+
 .flaticon-24-hours-1:before {
-    content: "\f11d";
+  content: "";
 }
+
 .flaticon-sketch:before {
-    content: "\f11e";
+  content: "";
 }
+
 .flaticon-house:before {
-    content: "\f11f";
+  content: "";
 }
+
 .flaticon-helmet:before {
-    content: "\f120";
+  content: "";
 }
+
 .flaticon-engineer:before {
-    content: "\f121";
+  content: "";
 }
+
 .flaticon-puzzle-piece:before {
-    content: "\f122";
+  content: "";
 }
+
 .flaticon-project:before {
-    content: "\f123";
+  content: "";
 }
+
 .flaticon-building:before {
-    content: "\f124";
+  content: "";
 }
+/*# sourceMappingURL=flaticon.css.map */
